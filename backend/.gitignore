@@ -1,0 +1,19 @@
+# Built application files
+/bin/
+/obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+
+# Secret configuration files
+appsettings.json
+appsettings.Development.json
+
+# Entity Framework migrations
+Migrations/
